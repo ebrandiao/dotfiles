@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = eduardo.brandiao@al.infnet.edu.br
+	name = brandiao
